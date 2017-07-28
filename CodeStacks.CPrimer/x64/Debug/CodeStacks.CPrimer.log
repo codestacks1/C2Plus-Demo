@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  CodeStacksStruct.cpp
+  CodeStacks.CPrimer.cpp
+d:\codesource\src\github.com\codestacks1\c2plus-demo\codestacks.cprimer\codestacks.cprimer.cpp(132): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  Generating Code...
+  CodeStacks.CPrimer.vcxproj -> D:\CODESOURCE\src\github.com\codestacks1\C2Plus-Demo\x64\Debug\CodeStacks.CPrimer.exe
+  CodeStacks.CPrimer.vcxproj -> D:\CODESOURCE\src\github.com\codestacks1\C2Plus-Demo\x64\Debug\CodeStacks.CPrimer.pdb (Partial PDB)

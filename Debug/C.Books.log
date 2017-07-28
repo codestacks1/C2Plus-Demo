@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  Utilities.cpp
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.10.25017\include\algorithm(970): warning C4996: 'std::transform::_Unchecked_iterators::_Deprecate': Call to 'std::transform' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.10.25017\include\algorithm(970): note: see declaration of 'std::transform::_Unchecked_iterators::_Deprecate'
+  d:\codesource\src\github.com\codestacks1\c2plus-demo\c.books\utilities.cpp(77): note: see reference to function template instantiation '_OutIt *std::transform<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,int*,Utilities::setVectorDemo::<lambda_b56e5aed43ff3aede1e7384bcedf2681>>(_InIt,_InIt,_OutIt,_Fn1)' being compiled
+          with
+          [
+              _OutIt=int *,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,
+              _Fn1=Utilities::setVectorDemo::<lambda_b56e5aed43ff3aede1e7384bcedf2681>
+          ]
+  typeAlias.cpp
+  Sales_item.cpp
+  main.cpp
+  IntelliPointer.cpp
+  constExpression.cpp
+  codestacks.cpp
+  book.cpp
+  autoType.cpp
+  agent2.cpp
+  agent1.cpp
+  Generating Code...
+  C.Books.vcxproj -> D:\CODESOURCE\src\github.com\codestacks1\C2Plus-Demo\Debug\C.Books.exe
+  C.Books.vcxproj -> D:\CODESOURCE\src\github.com\codestacks1\C2Plus-Demo\Debug\C.Books.pdb (Partial PDB)
